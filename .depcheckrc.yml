@@ -1,0 +1,18 @@
+ignores:
+  - '@nrwl/*'
+  - '@angular/*'
+  - '@angular-devkit/*'
+  - '@angular-eslint/template-parser'
+  - '@backbase/backbase-theme-business-preset'
+  - '@backbase/payment-batch-http-ang'
+  - '@backbase/payment-batch-upload-mapping-http-ang'
+  - '@backbase/positive-pay-ach-v1-client-ang'
+  - '@backbase/payment-batch-upload-mapping-http-ang'
+  - '@backbase/payment-batch-http-ang'
+  - '@types/jasmine'
+  - '@swimlane/ngx-charts'
+  - '@backbase/address-autocomplete-v1-client-ang'
+  - '@dot-build/serve-and-run-angular'
+skip-missing: true
+ignore-bin-packages: false
+json: true
